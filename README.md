@@ -25,7 +25,7 @@
 
 ## 🏆 GitHub Trophies
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=aexlin&theme=radical&no-frame=false&no-bg=true&margin-w=5&row=2&column=3"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=aexlin&theme=dracula&no-frame=false&no-bg=true&margin-w=5&row=2&column=3"/>
 </div>
 
 ### ✍️ Random Dev Quote
