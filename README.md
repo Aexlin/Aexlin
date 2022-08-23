@@ -28,10 +28,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=aexlin&theme=dracula&no-frame=false&no-bg=true&margin-w=5&row=2&column=3"/>
 </div>
 <br>
-<div>
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31b4gcvpczj4sfodj2x2uxkh7k7a&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false"/>
-</div>
-<div align="right">
+<div align="center">
     <img src="https://quotes-github-readme.vercel.app/api?theme=dracula&myquote=Whatever%20makes%20you%20uncomfortable%20is%20your%20biggest%20opportunity%20for%20growth&author=Bryant%20McGill"/>
 </div>
 
