@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hi I'm Aexlin 🐣&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hi_I'm_Aexlin_🐣&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
 # 💫 About Me:
