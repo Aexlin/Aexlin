@@ -28,11 +28,7 @@
 
 ### ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai?myquote=Whatever%20makes%20you%20uncomfortable%20is%20your%20biggest%20opportunity%20for%20growth?author=Bryant%20McGill)
 
 ## 🌐 My Socials:
 
