@@ -18,8 +18,8 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img width="40%" src="![](https://github-readme-stats.vercel.app/api?username=aexlin&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>" />
-  <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=aexlin&theme=dracula&hide_border=false" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=aexlin&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" />
+  <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=aexlin&theme=dracula&hide_border=false"/>
   <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aexlin&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 
