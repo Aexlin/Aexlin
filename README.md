@@ -29,7 +29,7 @@
 </div>
 
 <div align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&myquote=Whatever%20makes%20you%20uncomfortable%20is%20your%20biggest%20opportunity%20for%20growth&author=Bryant%20McGill" style="width: 40%;"/>
+    <img src="https://quotes-github-readme.vercel.app/api?theme=dracula&myquote=Whatever%20makes%20you%20uncomfortable%20is%20your%20biggest%20opportunity%20for%20growth&author=Bryant%20McGill"/>
 </div>
 
 ## 🌐 My Socials:
