@@ -19,14 +19,14 @@
 # 📊 GitHub Stats:
 <div align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=aexlin&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" />
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=aexlin&theme=dracula&hide_border=false&layout=compact"/>
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=aexlin&theme=dracula&hide_border=false"/>
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aexlin&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 
 ## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=aexlin&theme=dracula&no-frame=false&no-bg=true&margin-w=5&row=2&column=3)
-
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=aexlin&theme=radical&no-frame=false&no-bg=true&margin-w=5&row=2&column=3"/>
+</div>
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&myquote=Whatever%20makes%20you%20uncomfortable%20is%20your%20biggest%20opportunity%20for%20growth&author=Bryant%20McGill)
