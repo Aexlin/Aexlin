@@ -32,7 +32,7 @@
     <img src="https://quotes-github-readme.vercel.app/api?theme=dracula&myquote=Whatever%20makes%20you%20uncomfortable%20is%20your%20biggest%20opportunity%20for%20growth&author=Bryant%20McGill"/>
 </div>
 <div align="left">
-    [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31b4gcvpczj4sfodj2x2uxkh7k7a&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31b4gcvpczj4sfodj2x2uxkh7k7a&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false"/>
 </div>
 
 ## 🌐 My Socials:
