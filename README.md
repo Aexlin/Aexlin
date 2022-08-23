@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hi%20I'm%20Zsyrhill%20🐣&animation=fadeIn&type=waving&color=0:B81243,100:5666F3&height=150&fontColor=FFFFFF&desc=aka%20Aexlin,%20aspiring%20fullstack%20web%20developer%20🌸&fontSize=60&descSize=15&descAlignY=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hi%20I'm%20Zsyrhill%20🐣&animation=fadeIn&type=waving&color=0:B81243,100:5666F3&height=150&fontColor=FFFFFF&desc=aka%20Aexlin,%20aspiring%20fullstack%20web%20developer%20🌸&fontSize=60&descSize=15&descAlignY=80"/>
 </p>
 
 # 💫 About Me:
