@@ -4,7 +4,7 @@
 
 # 💫 About Me:
 
-💬 Ask me about **java, python, & php**<br>📫 Reach me at **zsyrhillsoria@gmail.com**<br>🌱 I'm currently learning: **PostgreSQL, Advanced UI/UX Designs**<br>⚡ Fun fact about me is that... **I'm a Girlboss.**
+💬 Ask me about **java, python, & php**<br>📫 Reach me at **zsyrhillsoria@gmail.com**<br>🌱 I'm currently learning: **PostgreSQL, Advanced UI/UX Designs**<br>
 
 # 💻 Tech Stack:
 |                     |                                                                                                                                                                                                                                    |
